@@ -1,0 +1,10 @@
+
+create database laukik;
+use laukik;
+CREATE TABLE users (
+    ID int,
+    username varchar(255),
+    email varchar(255),
+    password varchar(255)
+    
+);
